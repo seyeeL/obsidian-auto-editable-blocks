@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-auto-editable-blocks",
+  "name": "Auto Editable Blocks",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.4",
+  "description": "Automatically makes blocks editable when opening files",
+  "author": "Seyee",
+  "isDesktopOnly": false
+}
